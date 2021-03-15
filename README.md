@@ -1,7 +1,6 @@
-## 이진성(Android Developer)
+## 🔥이진성(Android Developer)
 
 ### 저의 성장이 누군가에게 자극이 되어 함께 성장해 나가고 싶은 개발자가 되고 싶습니다.
-
 
 - 📧Email: dlwls5201@gmail.com
 - 🐱Github: [https://github.com/dlwls5201](https://github.com/dlwls5201)
